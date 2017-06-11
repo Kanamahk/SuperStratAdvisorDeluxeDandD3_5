@@ -1,0 +1,66 @@
+#Nom du personnage
+lblNomPJ				=	Kanamahk le Marche-Mort
+
+#Bonus de force (un entier est attendu, 0 par defaut)
+textField_CaracFor		=	37
+
+#Bonus de Base a l'attaque (un entier est attendu, 0 par defaut)
+textField_BBA			=	16
+
+#Bonus de chant (un entier est attendu, 0 par defaut)
+textField_Chant			=	0
+
+#Bonus divers (un entier est attendu, 0 par defaut)
+textField_BDivers		=	10
+
+#Modificateur de critique de l'arme (un entier est attendu, 0 par defaut)
+textField_Crit			=	4
+
+#Tenaille? (true ou false attendu, false par defaut)
+chckbxTenaille			=	false
+
+#Possede le don Attaque en puissance (true ou false attendu, false par defaut)
+chckbxAEP				=	true
+
+#Degats bonus obtenus par point de bba utilise pour une arme a une main (un reel est attendu, 1.0 par defaut)
+textField_AEP			=	2.0
+
+#Arme a deux main? (true ou false attendu, false par defaut)
+chckbxArme2M			=	true
+
+#Est ce que l'arme est magique? (true ou false attendu, false par defaut)
+chckbxArmeMagique		=	true
+
+#Bonus d'alteration de l'arme (un entier est attendu, 0 par defaut)
+textField_BArme			=	3
+
+#En rage? (true ou false attendu, false par defaut)
+chckbxRage				=	false
+
+#Bonus lors de la Rage (un entier est attendu, 0 par defaut)
+textField_BRage			=	4
+
+#En frenesie? (true ou false attendu, false par defaut)
+chckbxFrnsie			=	false
+
+#Bonus lors de la Frenesie (un entier est attendu, 0 par defaut)
+textField_BFrenesie		=	10
+
+#Charge? (true ou false attendu, false par defaut)
+chckbxCharge			=	false
+
+#Les prerequis d'un Saut de Combat sont atteint(true ou false attendu, false par defaut)
+chckbxSautDeCombat		=	false
+
+#Les prerequis d'une attaque saute sont atteint(true ou false attendu, false par defaut)
+chckbxAttaqueSaut		=	false
+
+#Facteur multiplicatoire des degats lors d'une charge (un entier est attendu, 1 par defaut)
+textField_FacteurCharge	=	1
+
+#Degats bonus d'une autre source? (true ou false attendu, false par defaut)
+chckbxDegatsBonus		=	true
+
+#Degats bonus d'une autre source (un entier est attendu, 0 par defaut)
+textField_degatsBonus	=	20
+
